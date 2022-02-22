@@ -4,12 +4,13 @@ body{
     border:0px;
 }
 div{
-    background-color: aqua;
+    background-color: rgb(9, 179, 128);
 }
 #div1{
-    background-color: blueviolet;
+    background-color: rgb(218, 19, 29);
 }
 #husky{
     position: absolute;
     top: 100px;
+    left: 0%;
 }
